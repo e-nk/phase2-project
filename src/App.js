@@ -1,8 +1,9 @@
-import React from "react";
-import NavBar from "./components/Navbar/NavBar";
+import React from 'react';
+import Footer from './components/Footer';
+function App() {
+return (
+	<Footer />
+);
+}
 
-function App(){
-    <NavBar />
-
-} 
 export default App;
