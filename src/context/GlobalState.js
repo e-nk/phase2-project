@@ -16,7 +16,7 @@ function StateProvider({children}){
     // defining `state` for favorite product data
     const [favoriteItems, setFavoriteItems] = useState([])
     //Search for products by Title
-    const [search, setSearch] = useState("");
+
 
     // fetching product data
     const url = "http://products.muersolutions.com/api/v1/products"
