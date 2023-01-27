@@ -98,14 +98,6 @@ function StateProvider({children}){
             'success'
         )
     }
-    //Search
-    products.filter((val)=>{if(search === ""){
-        return val;
-    }else if(val.toLowerCase().includes(search.toLowerCase()) ){return val;}
-})
-
-
-
 
     
     useEffect(() => {

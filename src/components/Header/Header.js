@@ -18,15 +18,6 @@ function Header() {
                 <li><Link to='/about'>About</Link></li>
             </ul>
             <ul>
-            <input
-              style={{ width: 500 }}
-              type="search"
-              placeholder="Search a product..."
-              className="m-auto"
-              aria-label="Search"
-              
-            
-            />
             </ul>
             <ul className="nav-icons">
                 <li>
