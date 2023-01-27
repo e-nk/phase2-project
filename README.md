@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+<h1 align="center"> ReactJs Online Store </h1> <br>
+
+
+<h3 align="center">
+  A Simple Online Shop to Sell T-shirts and mark them as favorite. Built with Reactjs.
+</h3>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation Process](#installation-process)
+- [Project Demo](#project-demo)
+- [Feedback](#feedback)
+
+## Introduction
+
+ReactJs Online Store is a simple online shop to sell t-shirts and mark pictures as favorite. Built with Reactjs and 100% free to use.
+
+## Features
+
+A few of the things you can do with this app:
+
+* View all Products
+* View Product Detail
+* Add Product to Cart
+* Delete Product from Cart
+* Mark/Unmark Product as Favorite
+* Place an Order
+
+## Installation Process
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**Installation Process (Windows)**
 
-In the project directory, you can run:
+1. Check if you have nodejs installed `node -v`
+2. Clone This Project `git clone https://github.com/mahmud-sajib/ReactJs-Online-Store.git`
+3. Navigate to project directory `cd ReactJs-Online-Store`
+4. Install node modules `npm install`
+5. Finally Run The Project `npm start`
 
-### `npm start`
+## Project Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Live Project url: [reactjs-online-store](https://reactjs-online-store.netlify.app/)
 
-### `npm test`
+### Store Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>
+  <img src = "https://i.imgur.com/z2bUqwe.png" width=700>
+</p>
 
-### `npm run build`
+### Product Detail Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>
+  <img src = "https://i.imgur.com/W7bfNvL.png" width=700>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Cart Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>
+  <img src = "https://i.imgur.com/6JWzcbi.png" width=700>
+</p>
 
-### `npm run eject`
+### Wishlist Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>
+  <img src = "https://i.imgur.com/scuAjAI.png" width=700>
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Feedback
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Feel free to send me feedback on [Twitter](https://twitter.com/MahmudSajib18) or [file an issue](https://github.com/mahmud-sajib/ReactJs-Online-Store/issues/new). If you wish to contribute, please feel free to do so!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
