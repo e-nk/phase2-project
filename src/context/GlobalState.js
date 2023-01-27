@@ -19,7 +19,7 @@ function StateProvider({children}){
 
 
     // fetching product data
-    const url = "http://products.muersolutions.com/api/v1/products"
+    const url = "https://e-nk.github.io/projdb/db.json"
     
     useEffect(() => {
         fetch(url)
