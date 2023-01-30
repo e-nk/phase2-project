@@ -2,7 +2,7 @@ import React, {useContext} from 'react'
 import { StateContext } from '../../context/GlobalState'
 import ProductItem from './ProductItem'
 import './product.css'
-import Search from '../../context/Search/SearchItem'
+
 
 
 function ProductGrid() {
@@ -10,7 +10,7 @@ function ProductGrid() {
     
     return(
         <div>
-            <Search/>
+            
         <section className="products">
 
             {
