@@ -1,0 +1,42 @@
+import React, { useState } from "react";
+import ProductItem from '../../components/Product/ProductItem'
+
+
+
+function Search({ products }) {
+  const [searchQuery, setSearchQuery] = useState("");
+  console.log("*******")
+  console.log(products);
+
+  const [searchResults, setSearchResults] = useState(products);
+  const handleSearch = (e) => {
+    setSearchQuery(e.target.value);
+    if (!products) {
+      return [];
+    }
+    let results = products.filter((product) => {
+      return (
+        product.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        product.department.toLowerCase().includes(searchQuery.toLowerCase()) 
+        // product.price.toString().includes(searchQuery)
+      );
+    });
+    setSearchResults(results);
+  };
+  return (
+    <div id="search">
+      <input
+        type="text"
+        placeholder="Search products"
+        onChange={handleSearch}
+        className="input"
+      />
+      <section className="products">
+        {searchResults.map((product) => (
+          <ProductItem key={product.id} product={product}/>
+        ))}
+      </section>
+    </div>
+  );
+}
+export default Search;
