@@ -1,7 +1,7 @@
-# ``Let’s Buy``
+# Let’s Buy
 You can view the project on :[]
 
-## `Overview`
+## Overview
 
 A platform that makes it easy to search for products in most of that shops online all over the world.
 
@@ -37,8 +37,8 @@ For this project, I deployed json data fetched from the above API because the AP
 
 ### `CREDITS`
 Author: <a href='https://github.com/e-nk'>Enock Lagat<br>
-Contributor: <a href='https://github.com/Asher-arebaa'>Asher Areba<br>
-Contributor: <a href='https://github.com/PapitoSpence'>Mwenda Murithi<br>
+Author: <a href='https://github.com/Asher-arebaa'>Asher Areba<br>
+Author: <a href='https://github.com/PapitoSpence'>Mwenda Murithi<br>
 
 
 

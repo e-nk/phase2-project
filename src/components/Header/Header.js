@@ -14,8 +14,10 @@ function Header() {
                 <Link to='/'>Let’s Buy.</Link>
             </div>
             <ul className="nav-items">
+                <li><Link to='/'>Home</Link></li>
                 <li><Link to='/'>Store</Link></li>
                 <li><Link to='/about'>About</Link></li>
+                
             </ul>
             <ul>
             </ul>
