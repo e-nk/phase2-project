@@ -28,8 +28,12 @@ A platform that makes it easy to search for products in most of that shops onlin
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+### `API USED'
+We used the following API[http://products.muersolutions.com/developer/docs]
+
 ### `JSON DATA`
-For this project, I deployed my json data then fetched from the link [https://e-nk.github.io/botdbjson/db.json]
+For this project, I deployed json data fetched from the above API because the API was on http which is unsecure and cannot be fetched from once the project was deployed. The json data can be viewed on [https://e-nk.github.io/projdb/db.json]
+
 
 ### `CREDITS`
 Author: <a href='https://github.com/e-nk'>Enock Lagat<br>
