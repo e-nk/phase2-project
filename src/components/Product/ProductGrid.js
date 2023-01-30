@@ -1,7 +1,5 @@
-import React, {useContext, useState} from 'react'
-
+import React, {useContext} from 'react'
 import { StateContext } from '../../context/GlobalState'
-import ProductItem from './ProductItem'
 import './product.css'
 import Search from '../../context/Search/SearchItem'
 
