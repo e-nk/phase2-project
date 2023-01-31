@@ -1,5 +1,5 @@
 # Let’s Buy
-You can view the project on :[]
+You can view the project on :[https://ft-components--chipper-starlight-a774d4.netlify.app/]
 
 ## Overview
 
@@ -36,9 +36,9 @@ For this project, I deployed json data fetched from the above API because the AP
 
 
 ### `CREDITS`
-Author: <a href='https://github.com/e-nk'>Enock Lagat<br>
-Author: <a href='https://github.com/Asher-arebaa'>Asher Areba<br>
-Author: <a href='https://github.com/PapitoSpence'>Mwenda Murithi<br>
+Author: <a href='https://github.com/e-nk'>Enock Lagat</a><br>
+Author: <a href='https://github.com/Asher-arebaa'>Asher Areba</a><br>
+Author: <a href='https://github.com/PapitoSpence'>Mwenda Murithi</a><br>
 
 
 
