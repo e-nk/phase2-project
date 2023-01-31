@@ -5,6 +5,9 @@ You can view the project on :[https://ft-components--chipper-starlight-a774d4.ne
 
 A platform that makes it easy to search for products in most of that shops online all over the world.
 
+## Design
+This is our Project's Low-Fidelity Wireframe Design. The design was made on Balsamiq<a href="https://balsamiq.cloud/sp5zjv1/ps89654 " > Click Here to View</a>
+
 ## `Seting Up the Project`
 
 1. Clone this repository into your local machine.
