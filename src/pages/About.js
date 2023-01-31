@@ -9,10 +9,10 @@ function About() {
   <div class="row">
         <div class="col-md-2"></div>
     <div class="col-md-8" id="main">
-      <a href="#project"></a><h1>Project</h1>
+     <h1>Project</h1>
       <p class="index">Let’s Buy. A platform that makes it easy to search for products</p>     
     
-      <a href="#group"></a><h2>Project group</h2>
+      <h2>Project group</h2>
 
 <p>The members of our group are as follows:</p>
 <ul>
@@ -21,11 +21,11 @@ function About() {
   <li><i class="ri-user-line"></i><a href='https://github.com/PapitoSpence'>Mwenda Murithi</a></li>
   <li><i class="ri-user-line"></i><a href='https://github.com/Asher-arebaa'>Asher Areba</a></li>
 </ul>
-      <a href="#design"></a><h2>Design</h2>
+      <h2>Design</h2>
 <p>This is our Project's Low-Fidelity Wireframe Design. The design was made on Balsamiq<a href="https://balsamiq.cloud/sp5zjv1/ps89654"> Click Here to View</a></p>
 
   
-      <a href="#meetings"></a><h2>Project meetings</h2><br></br>
+     <h2>Project meetings</h2><br></br>
 
       <h3>First Day (Monday)</h3>
 
