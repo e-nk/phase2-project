@@ -1,9 +1,12 @@
-# ``Let’s Buy``
-You can view the project on :[]
+# Let’s Buy
+You can view the project on :[https://ft-components--chipper-starlight-a774d4.netlify.app/]
 
-## `Overview`
+## Overview
 
 A platform that makes it easy to search for products in most of that shops online all over the world.
+
+## Design
+This is our Project's Low-Fidelity Wireframe Design. The design was made on Balsamiq<a href="https://balsamiq.cloud/sp5zjv1/ps89654 " > Click Here to View</a>
 
 ## `Seting Up the Project`
 
@@ -36,9 +39,9 @@ For this project, I deployed json data fetched from the above API because the AP
 
 
 ### `CREDITS`
-Author: <a href='https://github.com/e-nk'>Enock Lagat<br>
-Contributor: <a href='https://github.com/Asher-arebaa'>Asher Areba<br>
-Contributor: <a href='https://github.com/PapitoSpence'>Mwenda Murithi<br>
+Author: <a href='https://github.com/e-nk'>Enock Lagat</a><br>
+Author: <a href='https://github.com/Asher-arebaa'>Asher Areba</a><br>
+Author: <a href='https://github.com/PapitoSpence'>Mwenda Murithi</a><br>
 
 
 

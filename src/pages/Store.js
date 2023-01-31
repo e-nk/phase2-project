@@ -4,7 +4,7 @@ import ProductGrid from '../components/Product/ProductGrid'
 function Store() {
     return (
         <>
-            <ProductGrid />
+            <ProductGrid/>
         </>
     )
 }

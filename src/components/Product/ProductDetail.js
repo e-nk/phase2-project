@@ -8,14 +8,13 @@ function ProductDetail() {
 
     // get id of current product
     const {productId} = useParams()
+    console.log(typeof productId)
 
     // fetch all products data
     const {products} = useContext(StateContext)
-    
+    console.log(products)
     // filter the product with matching id
-    const thisProduct = products.filter(product => product.id === productId)
-
-
+    const thisProduct = products.filter(product => Number(product.id )=== Number(productId))
     
     // render JSX
     return (
