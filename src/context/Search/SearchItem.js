@@ -30,7 +30,7 @@ function Search({ products }) {
         type="text"
         placeholder="Search products"
         onChange={handleSearch}
-        className="input position-absolute top-4 start-50 translate-middle"
+        className="input position-absolute top-4 start-50 translate-middle rounded-pill border-primary"
       />
       <section className="products">
         {searchResults.map((product) => (
