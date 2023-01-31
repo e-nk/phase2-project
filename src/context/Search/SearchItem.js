@@ -26,10 +26,11 @@ function Search({ products }) {
   return (
     <div id="search">
       <input
+        //class="position-absolute top-50 start-50"
         type="text"
         placeholder="Search products"
         onChange={handleSearch}
-        className="input"
+        className="input position-absolute top-4 start-50 translate-middle"
       />
       <section className="products">
         {searchResults.map((product) => (
